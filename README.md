@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @firdavscode
+- 👀 I’m interested in games
+- 🌱 I’m currently learning python
+- 💞️ I’m looking to collaborate on new coders
+- 📫 Write me to asqaraliyevfirdavs139@gmail.com
